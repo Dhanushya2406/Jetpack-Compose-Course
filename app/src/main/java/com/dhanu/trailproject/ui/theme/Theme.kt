@@ -64,8 +64,8 @@ fun TrailProjectTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        shapes = Shapes,
-        typography = Typography,
+        shapes = SuperHerosShapes,  // Want to choose, what type of shapes we need.
+        typography = SuperHerosTypography,    // Want to choose, what type of shapes we need.
         content = content
     )
 }

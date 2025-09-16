@@ -46,7 +46,9 @@
 
         <activity android:name=".scrollablelist.AffirmationListItem" />
 
-        <activity android:name=".woof.Woof"
+        <activity android:name=".woof.Woof"/>
+
+        <activity android:name=".superheros.SuperHeros"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.TrailProject">
